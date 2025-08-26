@@ -29,7 +29,7 @@ print(A_inv)
 ```
 ## Output:
 
-<img width="1000" height="326" alt="image" src="https://github.com/user-attachments/assets/1ef6ea3d-58fc-461f-ae0a-238009d5a590" />
+<img width="1333" height="941" alt="image" src="https://github.com/user-attachments/assets/8504768c-26d0-4f7e-8fe6-3f227e6e9379" />
 
 
 ## Result:
